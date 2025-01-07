@@ -11,7 +11,7 @@ sys.path.insert(0, r'./..')
 
 
 # uncomment to save the account info above in json format the easy way
-# json.dump(garmin_account, open(account_path / 'garmin.json', 'w'))
+#json.dump(garmin_account, open(account_path / 'garmin.json', 'w'))
 
 
 
